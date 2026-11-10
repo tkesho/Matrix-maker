@@ -1,0 +1,6 @@
+{
+  "name": "GridMatrix - Dynamic N x M Grid Generator & Pixel Canvas",
+  "description": "An interactive N x M grid generator with dynamic dimensions, tile toggling, drawing tools, patterns, cellular automata, and instant export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
